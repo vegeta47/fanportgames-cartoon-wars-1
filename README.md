@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://fanportgames.com/games/cartoon-wars"><img alt="Download" src="https://img.shields.io/badge/Download-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMTVWMyIvPjxwYXRoIGQ9Ik0yMSAxNXY0YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0ydi00Ii8+PHBhdGggZD0ibTcgMTAgNSA1IDUtNSIvPjwvc3ZnPg==&logoColor=white"></a>
-  <a href="../../issues/new/choose"><img alt="Report an issue" src="https://img.shields.io/badge/Report_an_issue-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="../../issues"><img alt="Browse issues" src="https://img.shields.io/badge/Browse_issues-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="../../issues/new/choose"><img alt="Report an issue" src="https://img.shields.io/badge/Report_an_issue-57606A?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="../../issues"><img alt="Browse issues" src="https://img.shields.io/badge/Browse_issues-57606A?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://ko-fi.com/aadhithan"><img alt="Support on Ko-fi" src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
